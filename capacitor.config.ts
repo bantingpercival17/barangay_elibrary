@@ -1,9 +1,9 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'my-vue-app',
-  webDir: 'dist',
+  appId: 'com.barangay.elibrary.app',
+  appName: 'Barangay E-Library',
+  webDir: 'public',
   server: {
     androidScheme: 'https'
   }

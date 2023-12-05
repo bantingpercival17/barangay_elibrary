@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="A9unhFEoQw3NU" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Alternative Medicine October 2023</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="alternative_medicine_october_2023_organization">
+		<organization identifier="alternative_medicine_october_2023_organization">
+
+			<title>Alternative Medicine October 2023</title>
+			<item identifier="9B9D42D7-C7DC-34D1-D386-9C9E827929BF" identifierref="resource">
+				<title>Alternative Medicine October 2023</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/book.pdf"/>
+<file href="res/data/book.pdf.js"/>
+<file href="res/data/css/viewer.css"/>
+<file href="res/data/fonts/OpenSans-Regular.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/images/hand.cur"/>
+<file href="res/data/images/hold-hand.cur"/>
+<file href="res/data/images/loading-icon.gif"/>
+<file href="res/data/images/mobile/back-arrow.svg"/>
+<file href="res/data/images/mobile/bookmark-icon-selected.svg"/>
+<file href="res/data/images/mobile/bookmark-icon.svg"/>
+<file href="res/data/images/mobile/close-icon.svg"/>
+<file href="res/data/images/mobile/outline-icon.svg"/>
+<file href="res/data/images/mobile/password-icon.svg"/>
+<file href="res/data/images/no-local-view.png"/>
+<file href="res/data/images/preloader.png"/>
+<file href="res/data/js/browsersupport.js"/>
+<file href="res/data/js/pdf.worker.js"/>
+<file href="res/data/js/viewer.js"/>
+<file href="res/data/thumbs/page-01.jpg"/>
+<file href="res/data/thumbs/page-02.jpg"/>
+<file href="res/data/thumbs/page-03.jpg"/>
+<file href="res/data/thumbs/page-04.jpg"/>
+<file href="res/data/thumbs/page-05.jpg"/>
+<file href="res/data/thumbs/page-06.jpg"/>
+<file href="res/data/thumbs/page-07.jpg"/>
+<file href="res/data/thumbs/page-08.jpg"/>
+<file href="res/data/thumbs/page-09.jpg"/>
+<file href="res/data/thumbs/page-10.jpg"/>
+<file href="res/data/thumbs/page-11.jpg"/>
+<file href="res/data/thumbs/page-12.jpg"/>
+<file href="res/data/thumbs/page-13.jpg"/>
+<file href="res/data/thumbs/page-14.jpg"/>
+<file href="res/data/thumbs/page-15.jpg"/>
+<file href="res/data/thumbs/page-16.jpg"/>
+<file href="res/data/thumbs/page-17.jpg"/>
+<file href="res/data/thumbs/page-18.jpg"/>
+<file href="res/data/thumbs/page-19.jpg"/>
+<file href="res/data/thumbs/page-20.jpg"/>
+<file href="res/data/thumbs/page-21.jpg"/>
+<file href="res/data/thumbs/page-22.jpg"/>
+<file href="res/data/thumbs/page-23.jpg"/>
+<file href="res/data/thumbs/page-24.jpg"/>
+<file href="res/data/thumbs/page-25.jpg"/>
+<file href="res/data/thumbs/page-26.jpg"/>
+<file href="res/data/thumbs/page-27.jpg"/>
+<file href="res/data/thumbs/page-28.jpg"/>
+<file href="res/data/thumbs/page-29.jpg"/>
+<file href="res/data/thumbs/page-30.jpg"/>
+<file href="res/data/thumbs/page-31.jpg"/>
+<file href="res/data/thumbs/page-32.jpg"/>
+<file href="res/data/thumbs/page-33.jpg"/>
+<file href="res/data/thumbs/page-34.jpg"/>
+<file href="res/data/thumbs/page-35.jpg"/>
+<file href="res/data/thumbs/page-36.jpg"/>
+<file href="res/data/thumbs/page-37.jpg"/>
+<file href="res/data/thumbs/page-38.jpg"/>
+<file href="res/data/thumbs/page-39.jpg"/>
+<file href="res/data/thumbs/page-40.jpg"/>
+<file href="res/data/thumbs/page-41.jpg"/>
+<file href="res/data/thumbs/page-42.jpg"/>
+<file href="res/data/thumbs/page-43.jpg"/>
+<file href="res/data/thumbs/page-44.jpg"/>
+<file href="res/data/thumbs/page-45.jpg"/>
+<file href="res/data/thumbs/page-46.jpg"/>
+<file href="res/data/thumbs/page-47.jpg"/>
+<file href="res/data/thumbs/page-48.jpg"/>
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+
+		</resource>
+	</resources>
+</manifest>

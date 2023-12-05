@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Cztj3irKjLMGM" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>ENGLISH_BOOK_GR2</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="english_book_gr2_organization">
+		<organization identifier="english_book_gr2_organization">
+
+			<title>ENGLISH_BOOK_GR2</title>
+			<item identifier="80610D87-5390-6B9F-9AFB-3F5E976B3483" identifierref="resource">
+				<title>ENGLISH BOOK_GRADE 2</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/book.pdf"/>
+<file href="res/data/book.pdf.js"/>
+<file href="res/data/css/viewer.css"/>
+<file href="res/data/fonts/OpenSans-Regular.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/images/hand.cur"/>
+<file href="res/data/images/hold-hand.cur"/>
+<file href="res/data/images/loading-icon.gif"/>
+<file href="res/data/images/mobile/back-arrow.svg"/>
+<file href="res/data/images/mobile/bookmark-icon-selected.svg"/>
+<file href="res/data/images/mobile/bookmark-icon.svg"/>
+<file href="res/data/images/mobile/close-icon.svg"/>
+<file href="res/data/images/mobile/outline-icon.svg"/>
+<file href="res/data/images/mobile/password-icon.svg"/>
+<file href="res/data/images/no-local-view.png"/>
+<file href="res/data/images/preloader.png"/>
+<file href="res/data/js/browsersupport.js"/>
+<file href="res/data/js/pdf.worker.js"/>
+<file href="res/data/js/viewer.js"/>
+<file href="res/data/thumbs/page-1.jpg"/>
+<file href="res/data/thumbs/page-2.jpg"/>
+<file href="res/data/thumbs/page-3.jpg"/>
+<file href="res/data/thumbs/page-4.jpg"/>
+<file href="res/data/thumbs/page-5.jpg"/>
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+
+		</resource>
+	</resources>
+</manifest>
